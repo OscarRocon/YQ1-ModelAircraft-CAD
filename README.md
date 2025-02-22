@@ -1,6 +1,6 @@
 # YQ1 - 3D Printed Model Aircraft  
 
-![YQ1 Model](Stallon Side R.jpg) <!-- Replace with actual image filename -->
+![YQ1 Model][Stallion Side R](https://github.com/user-attachments/assets/11a03552-fe02-4142-9286-2a2895265ef9)pg) <!-- Replace with actual image filename -->
 
 ## Overview  
 YQ1 is a **3D-printed model aircraft** designed for easy and stable flying. Whether you're an RC hobbyist or an aerodynamics enthusiast, this aircraft provides a **smooth and controlled flight experience**.  
