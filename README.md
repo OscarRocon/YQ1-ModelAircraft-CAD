@@ -45,5 +45,5 @@ For troubleshooting or modifications, feel free to contribute or ask questions i
 
 ---
 
-## More of My Designs  
+## Download the Design
 🔗 **Check out my Cults3D profile:** [**Cults3D Profile**](https://cults3d.com/en/users/oscarocon)  
