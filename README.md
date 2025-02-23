@@ -1,37 +1,49 @@
-# YQ1 - 3D Printed Model Aircraft  
+# YQ-1 Model Aircraft
 
-[YQ1 Model][Stallion Side R](https://github.com/user-attachments/assets/11a03552-fe02-4142-9286-2a2895265ef9) <!-- Replace with actual image filename -->
+## 3D Printing Instructions
+Each part should be printed using the following settings:
 
-## Overview  
-YQ1 is a **3D-printed model aircraft** designed for easy and stable flying. Whether you're an RC hobbyist or an aerodynamics enthusiast, this aircraft provides a **smooth and controlled flight experience**.  
+- **Filament:** eSUN PLA  
+- **Nozzle Temperature:** 220°C  
+- **Bed Temperature:** 60°C  
+- **Infill Pattern:** 3% Gyroid (For wings, you may use **Lines** support, but Gyroid has provided better results in my experience.)  
+- **Supports:** Use **Tree Supports** for **Fuselage Part 3** and **Fuselage Part 7** to ensure proper print quality.  
+- **Layer Height:** 0.2mm recommended for a balance between detail and strength.  
 
-## Features  
-✅ **3D Printable** - Designed for easy printing and assembly.  
-✅ **Stable Flight** - Balanced aerodynamics for predictable performance.  
-✅ **Lightweight** - Optimized structure for efficient flying.  
+## Recommended Components for Best Performance
 
-## Files Included  
-📂 **CAD Files**: Fusion 360 (.f3d) and STEP (.step) formats.  
-📂 **STL Files**: Ready for 3D printing.  
+- 🔋 **Battery:** 4S 2200 mAh LiPo  
+- ⚙️ **Servos:** MG90S Micro Servos  
+- 🌀 **Motor:** 1750+ Kv Brushless Motor  
+- 📏 **Carbon Fiber Spars:** Two 500mm x 6mm diameter  
+- 🔩 **Fasteners:** M3 screws  
+- 🛠️ **Assembly:** Glue required for structural bonding (CA glue or epoxy recommended)  
+- 🔗 **Servo Hinges:** Required for control surface movement  
+- 📡 **Receiver & Transmitter:** Compatible RC system (minimum 4-channel recommended)  
+- ⚡ **Electronic Speed Controller (ESC):** 30A+ ESC suitable for your motor and battery  
 
-## Recommended Electronics & Hardware  
-For best performance, use the following components:  
+## Optional Upgrades for Advanced Features
 
-🔋 **Battery**: 4S **2200 mAh LiPo**  
-⚙️ **Servos**: **MG90S** Micro Servos  
-🌀 **Motor**: **1750+ Kv Brushless Motor**  
-📏 **Carbon Fiber Spars**: Two **500mm x 6mm diameter**  
-🔩 **Fasteners**: **M3 screws**  
-🛠️ **Assembly**: Glue required for structural bonding  
+- 🖥️ **Flight Controller:** F405-Wing or Matek F411 for stabilization and telemetry support  
+- 📶 **GPS Module:** BN-220 or similar for autonomous navigation (if using a flight controller)  
+- 🎛️ **Voltage Regulator (BEC):** 5V/3A BEC if your ESC does not have a built-in BEC  
+- 🔋 **Battery Alarm or Voltage Checker:** To prevent over-discharging the LiPo battery  
+- 🟢 **LED Navigation Lights:** For better visibility during dusk or night flying  
 
-## How to Use  
-1. **Download the CAD/STL files** from this repository.  
-2. **Print the parts** using a 3D printer.  
-3. **Install** the electronics and assemble the model.  
-4. **Enjoy flying** the YQ1!  
+## Assembly & Usage Instructions
 
-## Contributing  
-Feel free to contribute by improving the design or testing new modifications! Fork this repository and submit a pull request.  
+1. **Download** the CAD/STL files from this repository.  
+2. **Print** the parts using the recommended 3D printing settings.  
+3. **Prepare** components by sanding and dry-fitting before assembly.  
+4. **Assemble** the aircraft using the recommended fasteners, carbon fiber spars, and glue for bonding.  
+5. **Install Electronics:** Secure servos, motor, battery, **ESC, receiver, transmitter system, and optional flight controller/GPS** in their designated positions.  
+6. **Attach Servo Hinges:** Ensure proper movement of control surfaces for accurate flight control.  
+7. **Calibrate & Test:** Ensure control surfaces respond correctly, **check voltage levels**, and perform a **range check** with the transmitter.  
+8. **Enjoy Flying** the YQ-1!  
 
-## License  
-📜 MIT License – Free to use and modify for non-commercial purposes.  
+For troubleshooting or modifications, feel free to contribute or ask questions in the repository’s discussion section. 🚀✈️  
+
+---
+
+## More of My Designs  
+🔗 **Check out my Cults3D profile:** [**Cults3D Profile**](https://cults3d.com/en/users/oscarocon)  
